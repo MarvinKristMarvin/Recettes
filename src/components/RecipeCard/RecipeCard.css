@@ -28,7 +28,7 @@
     }
     
     .recipe-button {
-      background-color: #479cee;
+      background-color: rgb(69, 167, 247);
       color: white;
       border: none;
       padding: 0.5rem 1rem;
@@ -39,9 +39,13 @@
     }
     
     .recipe-button:hover {
-      background-color: #3b84c9;
+      background-color: rgb(69, 167, 247);
     }
 
+  }
+
+  @media screen and (max-width: 900px) {
+    width: 90%;
   }
   
 }
