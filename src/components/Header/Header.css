@@ -5,7 +5,10 @@
   justify-content: space-between;
   box-shadow: 0px 13px 30px -20px #11111133;
 
-  img {
+  a {
+    & img {
+      height: 100%;
+    }
     &:hover {
       cursor: grab;
     }

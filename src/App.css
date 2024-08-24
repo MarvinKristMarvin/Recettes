@@ -19,7 +19,10 @@ a{
   
   
   .mainContent{
+
+    margin-left: 13rem;
     width: 100%;
+   
   }
 
   .active {
